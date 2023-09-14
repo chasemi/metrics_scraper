@@ -67,7 +67,8 @@ def ScrapeInsta():
 
     # Secondary list for other handles
     # bot = instaloader.Instaloader()
-    # handle = "REPLACE WITH OTHER HANDLES"
+    # handles_string = "REPLACE WITH OTHER HANDLES"
+    # handles = handles_string.split()
     # for handle in handles:
     #     temp_list = []
     #     profile = instaloader.Profile.from_username(bot.context, handle)
